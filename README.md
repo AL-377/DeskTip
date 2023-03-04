@@ -5,8 +5,9 @@
 ### In a Word
 
 This is a small desktop which can help with daily scheduled，styled **Four-quadrant table**
+<div align=center>
 <img src="README.assets/image-20230304102419596.png" alt="image-20230304102419596.png" style="zoom:50%;" width="500px"/>
-
+</div>
 ### Why is "Four-quadrant table"?
 
 [The Priority Quadrant: Manage Tasks Using the 4-Quadrant Method (appfluence.com)](https://appfluence.com/productivity/why-you-should-manage-tasks-using-the-4-quadrants-method/)
@@ -17,7 +18,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 1. You can fill in the daily schedule in different quadrant，includes text and url
 
-   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 25%;" width="500px" />
+   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 25%;" width="300px" />
 
 2. You can finish the items[1]、edit the items[2]、jump to the item[3]、delete the item[4]  at the related position
 
@@ -25,7 +26,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 3. You can export the records and supervise yourself（feedback for your mission complementation situation）
 
-   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:25%;" width="500px"/>
+   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:25%;" width="300px"/>
 
 ​	4.The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
@@ -37,7 +38,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 6. You can fold it into a circle and see the percent of  mission complementation situation
 
-   <img src="README.assets/image-20221009112132671.png" alt="image-20221009112132671" style="zoom:50%;" width="500px"/>
+   <img src="README.assets/image-20221009112132671.png" alt="image-20221009112132671" style="zoom:50%;" width="100px"/>
 
 7. It can **automatically popup every day** once you add "DeskTip.exe" into the auto-process app in you pc
 
