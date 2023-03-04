@@ -55,7 +55,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 ### How to install？
 
-- If you only want to use,you can download the release exe，and follow the install steps
+- If you only want to use,you can download the [release exe](https://github.com/AL-377/DeskTip/tree/master/release)，and follow the install steps
 
   <img src="README.assets/image-20230304130127636.png" alt="image-20230304130127636" style="zoom: 33%;" width="500px"/>
 
