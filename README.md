@@ -5,8 +5,7 @@
 ### In a Word
 
 This is a small desktop which can help with daily scheduled，styled **Four-quadrant table**
-
-![image-20230304102419596](README.assets/image-20230304102419596.png)
+<img src="README.assets/image-20230304102419596.png" alt="image-20230304102419596.png" style="zoom:50%;" width="500px"/>
 
 ### Why is "Four-quadrant table"?
 
@@ -18,7 +17,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 1. You can fill in the daily schedule in different quadrant，includes text and url
 
-   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 50%;" width="500px" />
+   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 25%;" width="500px" />
 
 2. You can finish the items[1]、edit the items[2]、jump to the item[3]、delete the item[4]  at the related position
 
@@ -26,7 +25,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 3. You can export the records and supervise yourself（feedback for your mission complementation situation）
 
-   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:50%;" width="500px"/>
+   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:25%;" width="500px"/>
 
 ​	4.The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
