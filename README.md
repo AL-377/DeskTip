@@ -21,7 +21,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
    <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 25%;" width="300px" />
 
-2. You can finish the items[1]、edit the items[2]、jump to the item[3]、delete the item[4]  at the related position
+2. You can finish the items[1]、edit the items[2]、jump to the item[3]、delete the item[4]  at the related position(Notice: every time after modify,you should click the "修改后同步" to sync the database (⊙﹏⊙))
 
    <img src="README.assets/image-20230304130443135.png" alt="image-20230304130443135" style="zoom:33%;" width="500px"/>
 
