@@ -28,7 +28,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
    <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:25%;" width="300px"/>
 
-​	4.The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
+4. The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
 <img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" width="500px"/>
 
@@ -122,7 +122,7 @@ detailed package step：
 - [x] upper layer problem
 - [x] simple color
 
-<img src="README.assets/image-20221006202035657.png" alt="image-20221006202035657" style="zoom:50%;" width="500px"/>
+  <img src="README.assets/image-20221006202035657.png" alt="image-20221006202035657" style="zoom:50%;" width="500px"/>
 
 ### V1.4 
 
@@ -132,5 +132,5 @@ detailed package step：
 
 - [x] circle mode with percent
 
-<img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="300px"/>
+  <img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="300px"/>
 
