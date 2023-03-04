@@ -30,7 +30,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 ​	4.The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
-<img src="README.assets/QQ图片20230304104507.jpg" style="zoom: 10%;" />
+<img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" />
 
 5. You can edit the percent of non-transparency by right click（100% to 50%）
 
