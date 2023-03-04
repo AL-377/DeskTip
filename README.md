@@ -102,10 +102,7 @@ detailed package step：
 
 ### V1.0 
 
-
-<div align=center>
 <img src="README.assets/image-20221006191006743.png" alt="image-20221006191006743.png" style="zoom:50%;" width="500px"/>
-</div>
 
 ### V1.1
 
@@ -136,5 +133,5 @@ detailed package step：
 
 - [x] circle mode with percent
 
-  <img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="300px"/>
+  <img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="100px"/>
 
