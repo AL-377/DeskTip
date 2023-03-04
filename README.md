@@ -6,7 +6,7 @@
 
 This is a small desktop which can help with daily scheduled，styled **Four-quadrant table**
 <div align=center>
-<img src="README.assets/image-20230304102419596.png" alt="image-20230304102419596.png" style="zoom:50%;" width="500px"/>
+<img src="README.assets/image-20230304102419596.png" alt="image-20230304102419596.png" style="zoom:50%;" width="600px"/>
 </div>
 
 ### Why is "Four-quadrant table"?
@@ -31,7 +31,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 4. The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
-   <img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" width="500px"/>
+   <img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" width="300px"/>
 
 5. You can edit the percent of non-transparency by right click（100% to 50%）
 
@@ -102,7 +102,7 @@ detailed package step：
 
 ### V1.0 
 
-<img src="README.assets/image-20221006191006743.png" alt="image-20221006191006743.png" style="zoom:50%;" width="500px"/>
+   <img src="README.assets/image-20221006191006743.png" alt="image-20221006191006743.png" style="zoom:50%;" width="500px"/>
 
 ### V1.1
 
