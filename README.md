@@ -18,27 +18,27 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 1. You can fill in the daily schedule in different quadrant，includes text and url
 
-   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 50%;" width="100px" />
+   <img src="README.assets/image-20230304103823813.png" alt="image-20230304103823813" style="zoom: 50%;" width="500px" />
 
 2. You can finish the items[1]、edit the items[2]、jump to the item[3]、delete the item[4]  at the related position
 
-   <img src="README.assets/image-20230304130443135.png" alt="image-20230304130443135" style="zoom:33%;" width="100px"/>
+   <img src="README.assets/image-20230304130443135.png" alt="image-20230304130443135" style="zoom:33%;" width="500px"/>
 
 3. You can export the records and supervise yourself（feedback for your mission complementation situation）
 
-   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:50%;" width="100px"/>
+   <img src="README.assets/image-20230304104214624.png" alt="image-20230304104214624" style="zoom:50%;" width="500px"/>
 
 ​	4.The schedule will stick on you desktop，you can drag it or place it in different layer（right click）
 
-<img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" width="100px"/>
+<img src="README.assets/image-20230304104507.jpg" style="zoom: 10%;" width="500px"/>
 
 5. You can edit the percent of non-transparency by right click（100% to 50%）
 
-   <img src="README.assets/image-20230304104634917.png" alt="image-20230304104634917" style="zoom: 25%;" width="100px"/><img src="README.assets/image-20230304104637098.png" alt="image-20230304104637098" style="zoom:25%;" width="100px"/>
+   <img src="README.assets/image-20230304104634917.png" alt="image-20230304104634917" style="zoom: 25%;" width="300px"/><img src="README.assets/image-20230304104637098.png" alt="image-20230304104637098" style="zoom:25%;" width="300px"/>
 
 6. You can fold it into a circle and see the percent of  mission complementation situation
 
-   <img src="README.assets/image-20221009112132671.png" alt="image-20221009112132671" style="zoom:50%;" width="100px"/>
+   <img src="README.assets/image-20221009112132671.png" alt="image-20221009112132671" style="zoom:50%;" width="500px"/>
 
 7. It can **automatically popup every day** once you add "DeskTip.exe" into the auto-process app in you pc
 
@@ -50,7 +50,7 @@ This is a small desktop which can help with daily scheduled，styled **Four-quad
 
 - If you only want to use,you can download the release exe，and follow the install steps
 
-  <img src="README.assets/image-20230304130127636.png" alt="image-20230304130127636" style="zoom: 33%;" width="100px"/>
+  <img src="README.assets/image-20230304130127636.png" alt="image-20230304130127636" style="zoom: 33%;" width="500px"/>
 
 - Before you use,make sure you have a suitable environment
 
@@ -115,22 +115,22 @@ detailed package step：
 
 - [x] right click menu
 
-  <img src="README.assets/image-20221006190948276.png" alt="image-20221006190948276" style="zoom:50%;" width="100px"/>
+  <img src="README.assets/image-20221006190948276.png" alt="image-20221006190948276" style="zoom:50%;" width="500px"/>
 
 ### V1.3
 
 - [x] upper layer problem
 - [x] simple color
 
-<img src="README.assets/image-20221006202035657.png" alt="image-20221006202035657" style="zoom:50%;" width="100px"/>
+<img src="README.assets/image-20221006202035657.png" alt="image-20221006202035657" style="zoom:50%;" width="500px"/>
 
 ### V1.4 
 
 - [x] fold button
 
-  <img src="README.assets/image-20230304131253130.png" alt="image-20230304131253130" style="zoom:33%;" width="100px"/>
+  <img src="README.assets/image-20230304131253130.png" alt="image-20230304131253130" style="zoom:33%;" width="500px"/>
 
 - [x] circle mode with percent
 
-<img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="100px"/>
+<img src="README.assets/image-20230304131313032.png" alt="image-20230304131313032" style="zoom:50%;" width="300px"/>
 
