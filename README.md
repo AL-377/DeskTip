@@ -1,7 +1,5 @@
 # DeskTip
 
-[TOC]
-
 ## Introduction
 
 ### In a Word
